@@ -23,10 +23,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="test.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="test.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="16" selection-start="96" selection-end="96" vertical-scroll-proportion="0.49736843" vertical-offset="0" max-vertical-offset="459">
+            <state line="9" column="8" selection-start="127" selection-end="127" vertical-scroll-proportion="-7.59375" vertical-offset="0" max-vertical-offset="567">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="me.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tset2.1/me.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="-0.84375" vertical-offset="0" max-vertical-offset="216">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="me2.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tset2.1/me2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="8" selection-start="15" selection-end="15" vertical-scroll-proportion="0.051233396" vertical-offset="0" max-vertical-offset="527">
               <folding />
             </state>
           </provider>
@@ -40,12 +58,15 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="DONT" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/test.html" />
+        <option value="$PROJECT_DIR$/tset2.1/me.html" />
+        <option value="$PROJECT_DIR$/tset2.1/me2.html" />
       </list>
     </option>
   </component>
@@ -106,7 +127,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/Git/Git-1.9.2-preview20140411.exe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="options.lastSelected" value="vcs.Git" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -143,7 +164,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32977098" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.10534351" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -188,7 +209,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="16" selection-start="96" selection-end="96" vertical-scroll-proportion="0.49736843" vertical-offset="0" max-vertical-offset="459">
+        <state line="9" column="8" selection-start="127" selection-end="127" vertical-scroll-proportion="-7.59375" vertical-offset="0" max-vertical-offset="567">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tset2.1/me.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="7" selection-end="7" vertical-scroll-proportion="-0.84375" vertical-offset="0" max-vertical-offset="216">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tset2.1/me2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="8" selection-start="15" selection-end="15" vertical-scroll-proportion="0.051233396" vertical-offset="0" max-vertical-offset="527">
           <folding />
         </state>
       </provider>
